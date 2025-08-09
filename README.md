@@ -19,7 +19,7 @@ Kılavuzda yer alan başlıca konular:
 - Eğitimi tamamlayanlar için özet ve hatırlatma kaynağı oluşturmak
 
 ## 📥 PDF'yi İndir
-🔗 [Kılavuzu PDF olarak indir](./veri_bilimi_temel_istatistik_klavuz.pdf)
+🔗 [Kılavuzu PDF olarak indir](./veri_bilimi_icin_temel_istatistik_kilavuz.pdf)
 
 ## 📌 Lisans
 Bu çalışma **kişisel eğitim ve bilgi amaçlıdır**.  
